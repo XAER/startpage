@@ -1,5 +1,7 @@
 # XAERdev Startpage
 
+[Live preview](startpage.xaer.dev)
+
 Customized startpage for my browser.
 I've based the layout from kencx's [startpage](https://github.com/kencx/startpage) and edited the styles a bit.
 
